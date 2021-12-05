@@ -1,0 +1,49 @@
+This is a collection of MIL-STD-498 Data Item Descriptor (DID) templates
+entered into Microsoft Word for Windows 6.0 (and Word for Windows 95)
+by Richard Conn for use at Monmouth University in the Software Engineering
+Department.  While a lot of effort was expended in trying to ensure that
+all DIDs have been accurately entered, no guarantee of the accuracy is
+offered and users should review these DIDs before delivering them to their
+customers.
+
+Richard Conn
+25 August 1995
+
+Files associated with this collection:
+
+22 Files / 1,133,056 Bytes
+ ----  23 Aug 1995   3:36:12  498COM.MWW          40,448
+ ----  23 Aug 1995  21:32:58  498CPM.MWW          38,912
+ ----  23 Aug 1995   3:35:54  498DBDD.MWW         58,368
+ ---a  25 Aug 1995   4:39:54  498FSM.MWW          48,640
+ ----  23 Aug 1995   3:35:30  498IDD.MWW          46,592
+ ----  23 Aug 1995   3:35:12  498IRS.MWW          56,320
+ ---a  25 Aug 1995   5:18:58  498OCD.MWW          36,352
+ ---a  25 Aug 1995   5:57:52  498SCOM.MWW         32,768
+ ----  23 Aug 1995   3:34:44  498SDD.MWW          69,632
+ ----  23 Aug 1995   3:34:24  498SDP.MWW          99,840
+ ----  23 Aug 1995  21:14:02  498SIOM.MWW         36,864
+ ---a  25 Aug 1995   6:36:32  498SIP.MWW          50,688
+ ----  23 Aug 1995   3:37:20  498SPS.MWW          48,640
+ ----  23 Aug 1995   6:09:36  498SRS.MWW          68,096
+ ----  23 Aug 1995   5:50:52  498SSDD.MWW         71,680
+ ----  23 Aug 1995   6:44:32  498SSS.MWW          47,104
+ ----  23 Aug 1995   3:38:54  498STD.MWW          50,688
+ ----  23 Aug 1995   3:39:34  498STP.MWW          51,712
+ ----  23 Aug 1995   3:40:16  498STR.MWW          47,616
+ ----  23 Aug 1995   4:09:32  498STRP.MWW         27,136
+ ----  23 Aug 1995   4:48:52  498SUM.MWW          59,904
+ ----  23 Aug 1995   5:02:38  498SVD.MWW          45,056
+1 File / 2,643 Bytes
+ ---a  25 Aug 1995   6:37:26  INSTALL.BAT          2,643
+1 File / 36,352 Bytes
+ ----  21 Aug 1995  10:56:52  STD498.DOT          36,352
+
+  Notes:
+    INSTALL.BAT is a batch file that eases the installation process.
+    This batch file may need to be tailored for a user's site.
+    Tailoring instructions are included at the front of the batch file.
+
+    STD498.DOT is a Microsoft Word for Windows 6.0 template used to
+    create the other templates.
+
